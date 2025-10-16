@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "lat": 47.562,
+    "lon": -122.3405,
+    "aqi": 22,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 34.0663,
+    "lon": -118.2266,
+    "aqi": 38,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 36.206,
+    "lon": -115.223,
+    "aqi": 38,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 40.777,
+    "lon": -111.93,
+    "aqi": 39,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 39.9003,
+    "lon": -105.042,
+    "aqi": 48,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 41.964,
+    "lon": -87.659,
+    "aqi": 31,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 29.751,
+    "lon": -95.351,
+    "aqi": 101,
+    "category": "Unhealthy for Sensitive Groups",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 32.767,
+    "lon": -96.783,
+    "aqi": 101,
+    "category": "Unhealthy for Sensitive Groups",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 38.75,
+    "lon": -90.383,
+    "aqi": 80,
+    "category": "Moderate",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 40.692,
+    "lon": -74.187,
+    "aqi": 31,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 42.351,
+    "lon": -71.051,
+    "aqi": 21,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 33.65,
+    "lon": -84.43,
+    "aqi": 64,
+    "category": "Moderate",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 25.776,
+    "lon": -80.211,
+    "aqi": 37,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 44.955,
+    "lon": -93.185,
+    "aqi": 16,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 39.95,
+    "lon": -75.151,
+    "aqi": 37,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 45.538,
+    "lon": -122.656,
+    "aqi": 18,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 35.227,
+    "lon": -80.843,
+    "aqi": 41,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 33.543,
+    "lon": -112.071,
+    "aqi": 41,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 37.75,
+    "lon": -122.43,
+    "aqi": 18,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 30.267,
+    "lon": -97.734,
+    "aqi": 90,
+    "category": "Moderate",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 46.9336,
+    "lon": -96.8547,
+    "aqi": 19,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 43.107,
+    "lon": -87.9207,
+    "aqi": 22,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 35.106,
+    "lon": -90.001,
+    "aqi": 49,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 36.171,
+    "lon": -86.785,
+    "aqi": 46,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 27.959,
+    "lon": -82.482,
+    "aqi": 42,
+    "category": "Good",
+    "time": "2025-10-16"
+  },
+  {
+    "lat": 41.2655,
+    "lon": -95.9836,
+    "aqi": 50,
+    "category": "Good",
+    "time": "2025-10-16"
+  }
+]

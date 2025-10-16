@@ -17,3 +17,5 @@ frontend/.env
 
 # macOS
 .DS_Store
+aqi_data.json
+aqi_model.pkl
