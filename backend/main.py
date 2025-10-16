@@ -1,56 +1,62 @@
+import sys, os, random
+sys.path.append(os.path.dirname(__file__))
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fetch_aqi import fetch_aqi_data
-from fetch_aod import fetch_aod_data
-from predict_aqi import predict_aqi
+from backend.predict_aqi import predict_aqi
 
-app = FastAPI(title="Environmental Data API", version="3.0")
+app = FastAPI()
 
-# ✅ Allow frontend access
+# Enable CORS for frontend (Vite)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # or ["http://localhost:5173"]
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-@app.get("/")
-def home():
-    return {"message": "🌎 Environmental API running successfully!"}
+# === ROUTES ===
 
 @app.get("/api/aqi")
-def get_aqi():
-    data = fetch_aqi_data()
-    return {"count": len(data), "data": data}
+def get_live_aqi():
+    """
+    Returns simulated real-time AQI data (based on predictions).
+    You can later replace this with actual AirNow API data.
+    """
+    aqi_data = predict_aqi()
+    # Convert predicted data to "live" style format
+    for entry in aqi_data:
+        entry["aqi"] = entry.pop("predicted_aqi")
+    return aqi_data
 
-@app.get("/api/aod")
-def get_aod():
-    data = fetch_aod_data()
-    return {"count": len(data), "data": data}
 
 @app.get("/api/predictions")
 def get_predictions():
-    data = predict_aqi()
-    return {"count": len(data), "data": data}
+    """
+    Returns AQI predictions for various US locations.
+    """
+    return predict_aqi()
 
-@app.get("/api/combined")
-def get_combined():
-    aqi = fetch_aqi_data()
-    aod = fetch_aod_data()
-    preds = predict_aqi()
 
-    combined = []
-    for p in preds:
-        closest_aqi = min(aqi, key=lambda x: abs(x["lat"] - p["lat"]) + abs(x["lon"] - p["lon"]))
-        closest_aod = min(aod, key=lambda x: abs(x["lat"] - p["lat"]) + abs(x["lon"] - p["lon"]))
-        combined.append({
-            "lat": p["lat"],
-            "lon": p["lon"],
-            "predicted_aqi": p["predicted_aqi"],
-            "aqi_category": p["category"],
-            "actual_aqi": closest_aqi["aqi"],
-            "city": closest_aqi["city"],
-            "aod": closest_aod["aod"]
+@app.get("/api/aod")
+def get_aod_mock():
+    """
+    Returns mock Aerosol Optical Depth (AOD) data for NASA-style heatmap visualization.
+    You can later replace this with NASA GIBS or MODIS data.
+    """
+    aod_data = []
+    # Generate 100 points with lat/lon distributed over the US
+    for _ in range(100):
+        aod_data.append({
+            "lat": random.uniform(25, 49),
+            "lon": random.uniform(-125, -66),
+            "aod": round(random.uniform(0.05, 0.35), 3)
         })
-    return {"count": len(combined), "data": combined}
+    return aod_data
+
+
+@app.get("/predict")
+def redirect_to_prediction():
+    """Alias for compatibility with earlier routes"""
+    return predict_aqi()

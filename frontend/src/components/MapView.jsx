@@ -22,14 +22,11 @@ function FitMapBounds({ points }) {
 
   useEffect(() => {
     if (!map || !points?.length) return;
-
     const bounds = L.latLngBounds(points.map((p) => [p.lat, p.lon]));
-
-    // Ensure map stays within continental US bounds
     if (bounds.isValid()) {
       map.fitBounds(bounds, { padding: [60, 60], maxZoom: 6, animate: true });
     } else {
-      map.setView([39.5, -98.35], 4); // fallback
+      map.setView([39.5, -98.35], 4);
     }
   }, [map, points]);
 
@@ -46,7 +43,6 @@ function AODHeatmapLayer({ points }) {
     if (!map || !points?.length) return;
 
     const heatPoints = points.map((p) => [p.lat, p.lon, Math.min(p.aod * 5, 1)]);
-
     const gradient = {
       0.0: "#a8dadc",
       0.3: "#457b9d",
@@ -83,11 +79,11 @@ function PredictionHeatmapLayer({ points }) {
     ]);
 
     const gradient = {
-      0.0: "#00E400", // green - good
-      0.25: "#FFFF00", // yellow - moderate
-      0.5: "#FF7E00", // orange - unhealthy for sensitive
-      0.75: "#FF0000", // red - unhealthy
-      1.0: "#8F3F97", // purple - very unhealthy
+      0.0: "#00E400",
+      0.25: "#FFFF00",
+      0.5: "#FF7E00",
+      0.75: "#FF0000",
+      1.0: "#8F3F97",
     };
 
     const layer = L.heatLayer(heatPoints, {
@@ -116,7 +112,11 @@ export default function MapView() {
     try {
       setError(null);
       const res = await axios.get(`${BACKEND_URL}/${dataset}`);
-      setData(res.data.data || []);
+      // Some endpoints return plain lists; handle both formats
+      const incoming = Array.isArray(res.data)
+        ? res.data
+        : res.data.data || [];
+      setData(incoming);
     } catch (err) {
       console.error("❌ Fetch failed:", err);
       setError(`Failed to fetch ${dataset.toUpperCase()} data.`);
@@ -125,7 +125,7 @@ export default function MapView() {
 
   useEffect(() => {
     fetchData();
-    const interval = setInterval(fetchData, 10 * 60 * 1000);
+    const interval = setInterval(fetchData, 10 * 60 * 1000); // refresh every 10 min
     return () => clearInterval(interval);
   }, [dataset]);
 
@@ -152,29 +152,13 @@ export default function MapView() {
             <span style={{ background: "#1d3557" }}></span> High (≥ 0.3)
           </div>
         </>
-      ) : dataset === "predictions" ? (
-        <>
-          <h4>Predicted AQI</h4>
-          <div>
-            <span style={{ background: "#00E400" }}></span> Good (0–50)
-          </div>
-          <div>
-            <span style={{ background: "#FFFF00" }}></span> Moderate (51–100)
-          </div>
-          <div>
-            <span style={{ background: "#FF7E00" }}></span> Unhealthy Sensitive
-            (101–150)
-          </div>
-          <div>
-            <span style={{ background: "#FF0000" }}></span> Unhealthy (151–200)
-          </div>
-          <div>
-            <span style={{ background: "#8F3F97" }}></span> Very Unhealthy (201–300)
-          </div>
-        </>
       ) : (
         <>
-          <h4>Air Quality Index (AQI)</h4>
+          <h4>
+            {dataset === "predictions"
+              ? "Predicted AQI"
+              : "Air Quality Index (AQI)"}
+          </h4>
           <div>
             <span style={{ background: "#00E400" }}></span> Good (0–50)
           </div>
@@ -189,7 +173,8 @@ export default function MapView() {
             <span style={{ background: "#FF0000" }}></span> Unhealthy (151–200)
           </div>
           <div>
-            <span style={{ background: "#8F3F97" }}></span> Very Unhealthy (201–300)
+            <span style={{ background: "#8F3F97" }}></span> Very Unhealthy
+            (201–300)
           </div>
         </>
       )}
@@ -217,21 +202,16 @@ export default function MapView() {
         >
           <TileLayer
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-            attribution='&copy; OpenStreetMap contributors'
+            attribution="&copy; OpenStreetMap contributors"
           />
 
-          {/* Fit bounds to visible data */}
           <FitMapBounds points={data} />
 
-          {/* 🔵 AOD Heatmap */}
           {dataset === "aod" && <AODHeatmapLayer points={data} />}
-
-          {/* 🔴 Predicted AQI Heatmap */}
           {dataset === "predictions" && (
             <PredictionHeatmapLayer points={data} />
           )}
 
-          {/* 🟢 Live AQI markers */}
           {dataset === "aqi" &&
             data.map((item, i) => (
               <CircleMarker
