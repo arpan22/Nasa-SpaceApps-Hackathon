@@ -1,0 +1,154 @@
+/* ========== PAGE LAYOUT ========== */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #121212; /* dark mode background */
+  color: #ffffff;
+}
+
+/* Map container wrapper */
+.map-container {
+  width: 95%;
+  max-width: 1200px;
+  margin: 30px auto;
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+/* Centered title */
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #000;
+  background: #fff;
+  border-radius: 8px;
+  padding: 8px 12px;
+  display: inline-block;
+}
+
+/* ========== MAP ========== */
+.leaflet-container {
+  width: 100%;
+  height: 70vh;
+  border-radius: 10px;
+  z-index: 1;
+}
+
+/* ========== FILTER DROPDOWN ========== */
+.controls {
+  text-align: center;
+  margin-bottom: 12px;
+  position: relative;
+  z-index: 1000;
+}
+
+.controls select {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 15px;
+  border: 1px solid #aaa;
+  background-color: #ffffff;
+  color: #000000;
+  font-weight: 500;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  appearance: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.controls select:hover {
+  background-color: #f2f2f2;
+  border-color: #888;
+}
+
+.controls select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 6px rgba(0, 123, 255, 0.6);
+}
+
+/* ========== LEGEND STYLING ========== */
+.legend {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  padding: 12px 18px;
+  line-height: 1.5;
+  font-size: 14px;
+  color: #111;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.legend h4 {
+  margin: 0 0 8px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #000;
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  margin: 4px 0;
+}
+
+.legend span {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  margin-right: 8px;
+  border: 1px solid #666;
+}
+
+/* AQI color boxes */
+.legend .good { background: #00e400; }
+.legend .moderate { background: #ffff00; }
+.legend .usg { background: #ff7e00; }
+.legend .unhealthy { background: #ff0000; }
+.legend .very-unhealthy { background: #8f3f97; }
+.legend .hazardous { background: #7e0023; }
+
+/* AOD legend */
+.legend .low-aod { background: #a6cee3; }
+.legend .moderate-aod { background: #1f78b4; }
+.legend .high-aod { background: #081d58; }
+
+/* Error message */
+.error-box {
+  color: red;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.1);
+  padding: 10px;
+  margin: 15px auto;
+  border-radius: 8px;
+  width: 80%;
+  border: 1px solid red;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+  .map-container {
+    width: 98%;
+    padding: 10px;
+  }
+
+  .controls select {
+    width: 90%;
+  }
+
+  .legend {
+    right: 10px;
+    bottom: 10px;
+    font-size: 13px;
+    padding: 10px;
+  }
+}

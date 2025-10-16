@@ -1,0 +1,2486 @@
+[
+  {
+    "lat": 47.562,
+    "lon": -122.3405,
+    "aqi": 20,
+    "category": "Good"
+  },
+  {
+    "lat": 34.0663,
+    "lon": -118.2266,
+    "aqi": 38,
+    "category": "Good"
+  },
+  {
+    "lat": 36.206,
+    "lon": -115.223,
+    "aqi": 38,
+    "category": "Good"
+  },
+  {
+    "lat": 40.777,
+    "lon": -111.93,
+    "aqi": 38,
+    "category": "Good"
+  },
+  {
+    "lat": 39.9003,
+    "lon": -105.042,
+    "aqi": 48,
+    "category": "Good"
+  },
+  {
+    "lat": 42.5355,
+    "lon": -87.78985,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.751,
+    "lon": -95.351,
+    "aqi": 101,
+    "category": "Unhealthy for Sensitive Groups"
+  },
+  {
+    "lat": 32.767,
+    "lon": -96.783,
+    "aqi": 93,
+    "category": "Moderate"
+  },
+  {
+    "lat": 38.75,
+    "lon": -90.383,
+    "aqi": 80,
+    "category": "Moderate"
+  },
+  {
+    "lat": 40.321,
+    "lon": -74.669,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 42.351,
+    "lon": -71.051,
+    "aqi": 22,
+    "category": "Good"
+  },
+  {
+    "lat": 33.65,
+    "lon": -84.43,
+    "aqi": 58,
+    "category": "Moderate"
+  },
+  {
+    "lat": 25.776,
+    "lon": -80.211,
+    "aqi": 37,
+    "category": "Good"
+  },
+  {
+    "lat": 44.955,
+    "lon": -93.185,
+    "aqi": 16,
+    "category": "Good"
+  },
+  {
+    "lat": 45.538,
+    "lon": -122.656,
+    "aqi": 13,
+    "category": "Good"
+  },
+  {
+    "lat": 35.227,
+    "lon": -80.843,
+    "aqi": 41,
+    "category": "Good"
+  },
+  {
+    "lat": 33.543,
+    "lon": -112.071,
+    "aqi": 38,
+    "category": "Good"
+  },
+  {
+    "lat": 37.75,
+    "lon": -122.43,
+    "aqi": 13,
+    "category": "Good"
+  },
+  {
+    "lat": 30.267,
+    "lon": -97.734,
+    "aqi": 90,
+    "category": "Moderate"
+  },
+  {
+    "lat": 46.9336,
+    "lon": -96.8547,
+    "aqi": 19,
+    "category": "Good"
+  },
+  {
+    "lat": 35.106,
+    "lon": -90.001,
+    "aqi": 49,
+    "category": "Good"
+  },
+  {
+    "lat": 36.171,
+    "lon": -86.785,
+    "aqi": 46,
+    "category": "Good"
+  },
+  {
+    "lat": 27.959,
+    "lon": -82.482,
+    "aqi": 42,
+    "category": "Good"
+  },
+  {
+    "lat": 41.2655,
+    "lon": -95.9836,
+    "aqi": 50,
+    "category": "Good"
+  },
+  {
+    "lat": 25.5,
+    "lon": -124.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -122.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -120.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -118.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -116.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -114.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -112.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -110.5,
+    "aqi": 56,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -108.5,
+    "aqi": 59,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -106.5,
+    "aqi": 72,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -104.5,
+    "aqi": 75,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -102.5,
+    "aqi": 79,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -100.5,
+    "aqi": 81,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -98.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -96.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -94.5,
+    "aqi": 82,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -92.5,
+    "aqi": 80,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -90.5,
+    "aqi": 75,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -88.5,
+    "aqi": 65,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -86.5,
+    "aqi": 54,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -84.5,
+    "aqi": 50,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -82.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -80.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -78.5,
+    "aqi": 41,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -76.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -74.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -72.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -70.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -68.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 25.5,
+    "lon": -66.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -124.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -122.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -120.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -118.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -116.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -114.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -112.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -110.5,
+    "aqi": 54,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -108.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -106.5,
+    "aqi": 71,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -104.5,
+    "aqi": 75,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -102.5,
+    "aqi": 80,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -100.5,
+    "aqi": 82,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -98.5,
+    "aqi": 85,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -96.5,
+    "aqi": 86,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -94.5,
+    "aqi": 86,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -92.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -90.5,
+    "aqi": 78,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -88.5,
+    "aqi": 59,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -86.5,
+    "aqi": 54,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -84.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -82.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -80.5,
+    "aqi": 41,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -78.5,
+    "aqi": 41,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -76.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -74.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -72.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -70.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -68.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 27.5,
+    "lon": -66.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -124.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -122.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -120.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -118.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -116.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -114.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -112.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -110.5,
+    "aqi": 45,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -108.5,
+    "aqi": 55,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -106.5,
+    "aqi": 69,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -104.5,
+    "aqi": 75,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -102.5,
+    "aqi": 80,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -100.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -98.5,
+    "aqi": 87,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -96.5,
+    "aqi": 91,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -94.5,
+    "aqi": 92,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -92.5,
+    "aqi": 86,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -90.5,
+    "aqi": 81,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -88.5,
+    "aqi": 60,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -86.5,
+    "aqi": 47,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -84.5,
+    "aqi": 45,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -82.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -80.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -78.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -76.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -74.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -72.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -70.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -68.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 29.5,
+    "lon": -66.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -124.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -122.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -120.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -118.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -116.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -114.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -112.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -110.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -108.5,
+    "aqi": 47,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -106.5,
+    "aqi": 59,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -104.5,
+    "aqi": 74,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -102.5,
+    "aqi": 79,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -100.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -98.5,
+    "aqi": 87,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -96.5,
+    "aqi": 90,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -94.5,
+    "aqi": 89,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -92.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -90.5,
+    "aqi": 79,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -88.5,
+    "aqi": 59,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -86.5,
+    "aqi": 48,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -84.5,
+    "aqi": 49,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -82.5,
+    "aqi": 46,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -80.5,
+    "aqi": 45,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -78.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -76.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -74.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -72.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -70.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -68.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 31.5,
+    "lon": -66.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -124.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -122.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -120.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -118.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -116.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -114.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -112.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -110.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -108.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -106.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -104.5,
+    "aqi": 72,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -102.5,
+    "aqi": 77,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -100.5,
+    "aqi": 82,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -98.5,
+    "aqi": 85,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -96.5,
+    "aqi": 91,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -94.5,
+    "aqi": 87,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -92.5,
+    "aqi": 77,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -90.5,
+    "aqi": 66,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -88.5,
+    "aqi": 61,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -86.5,
+    "aqi": 49,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -84.5,
+    "aqi": 52,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -82.5,
+    "aqi": 50,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -80.5,
+    "aqi": 46,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -78.5,
+    "aqi": 45,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -76.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -74.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -72.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -70.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -68.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 33.5,
+    "lon": -66.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -124.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -122.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -120.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -118.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -116.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -114.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -112.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -110.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -108.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -106.5,
+    "aqi": 48,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -104.5,
+    "aqi": 59,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -102.5,
+    "aqi": 73,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -100.5,
+    "aqi": 78,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -98.5,
+    "aqi": 81,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -96.5,
+    "aqi": 81,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -94.5,
+    "aqi": 83,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -92.5,
+    "aqi": 71,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -90.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -88.5,
+    "aqi": 52,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -86.5,
+    "aqi": 52,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -84.5,
+    "aqi": 53,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -82.5,
+    "aqi": 51,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -80.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -78.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -76.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -74.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -72.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -70.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -68.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 35.5,
+    "lon": -66.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -124.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -122.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -120.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -118.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -116.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -114.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -112.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -110.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -108.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -106.5,
+    "aqi": 48,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -104.5,
+    "aqi": 51,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -102.5,
+    "aqi": 61,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -100.5,
+    "aqi": 69,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -98.5,
+    "aqi": 71,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -96.5,
+    "aqi": 72,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -94.5,
+    "aqi": 65,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -92.5,
+    "aqi": 64,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -90.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -88.5,
+    "aqi": 55,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -86.5,
+    "aqi": 51,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -84.5,
+    "aqi": 52,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -82.5,
+    "aqi": 52,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -80.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -78.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -76.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -74.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -72.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -70.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -68.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 37.5,
+    "lon": -66.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -124.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -122.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -120.5,
+    "aqi": 23,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -118.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -116.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -114.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -112.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -110.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -108.5,
+    "aqi": 41,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -106.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -104.5,
+    "aqi": 46,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -102.5,
+    "aqi": 49,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -100.5,
+    "aqi": 55,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -98.5,
+    "aqi": 56,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -96.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -94.5,
+    "aqi": 50,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -92.5,
+    "aqi": 54,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -90.5,
+    "aqi": 68,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -88.5,
+    "aqi": 57,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -86.5,
+    "aqi": 48,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -84.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -82.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -80.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -78.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -76.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -74.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -72.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -70.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -68.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 39.5,
+    "lon": -66.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -124.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -122.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -120.5,
+    "aqi": 22,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -118.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -116.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -114.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -112.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -110.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -108.5,
+    "aqi": 42,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -106.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -104.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -102.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -100.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -98.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -96.5,
+    "aqi": 46,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -94.5,
+    "aqi": 46,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -92.5,
+    "aqi": 44,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -90.5,
+    "aqi": 43,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -88.5,
+    "aqi": 39,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -86.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -84.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -82.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -80.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -78.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -76.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -74.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -72.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -70.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -68.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 41.5,
+    "lon": -66.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -124.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -122.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -120.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -118.5,
+    "aqi": 23,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -116.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -114.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -112.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -110.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -108.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -106.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -104.5,
+    "aqi": 38,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -102.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -100.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -98.5,
+    "aqi": 40,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -96.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -94.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -92.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -90.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -88.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -86.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -84.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -82.5,
+    "aqi": 37,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -80.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -78.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -76.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -74.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -72.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -70.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -68.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 43.5,
+    "lon": -66.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -124.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -122.5,
+    "aqi": 16,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -120.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -118.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -116.5,
+    "aqi": 23,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -114.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -112.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -110.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -108.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -106.5,
+    "aqi": 36,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -104.5,
+    "aqi": 35,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -102.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -100.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -98.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -96.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -94.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -92.5,
+    "aqi": 18,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -90.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -88.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -86.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -84.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -82.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -80.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -78.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -76.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -74.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -72.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -70.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -68.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 45.5,
+    "lon": -66.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -124.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -122.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -120.5,
+    "aqi": 19,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -118.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -116.5,
+    "aqi": 22,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -114.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -112.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -110.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -108.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -106.5,
+    "aqi": 34,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -104.5,
+    "aqi": 33,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -102.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -100.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -98.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -96.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -94.5,
+    "aqi": 23,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -92.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -90.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -88.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -86.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -84.5,
+    "aqi": 30,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -82.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -80.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -78.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -76.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -74.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -72.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -70.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -68.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 47.5,
+    "lon": -66.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -124.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -122.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -120.5,
+    "aqi": 20,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -118.5,
+    "aqi": 21,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -116.5,
+    "aqi": 23,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -114.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -112.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -110.5,
+    "aqi": 27,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -108.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -106.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -104.5,
+    "aqi": 32,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -102.5,
+    "aqi": 31,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -100.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -98.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -96.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -94.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -92.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -90.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -88.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -86.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -84.5,
+    "aqi": 26,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -82.5,
+    "aqi": 24,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -80.5,
+    "aqi": 25,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -78.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -76.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -74.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -72.5,
+    "aqi": 29,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -70.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -68.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  },
+  {
+    "lat": 49.5,
+    "lon": -66.5,
+    "aqi": 28,
+    "category": "Interpolated"
+  }
+]
